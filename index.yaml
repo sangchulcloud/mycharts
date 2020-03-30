@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  eventapp-lab01:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: 2020-03-30T23:45:41.0745194+09:00
+    description: A Helm chart for Kubernetes
+    digest: 3ac8e67fe3a36790acc0348eb4ac1154b478cc60242433c545682538de5db1e6
+    name: eventapp-lab01
+    urls:
+    - https://sangchulcloud.github.io/mycharts/eventapp-lab01-0.1.0.tgz
+    version: 0.1.0
+generated: 2020-03-30T23:45:41.0725167+09:00
